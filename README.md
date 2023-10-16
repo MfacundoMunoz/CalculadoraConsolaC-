@@ -4,4 +4,4 @@ Proyecto donde creo una calculadora en c# basica utilazando bucle while y la con
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1JGD370UFCFXus6AWsw6NE_TCF7cxpBlC/view?usp=sharing)
+![App Screenshot](https://asset.cloudinary.com/dxgpy130c/675bdf0e010a3b31b0f9e014e1c900ee)https://asset.cloudinary.com/dxgpy130c/675bdf0e010a3b31b0f9e014e1c900ee)
